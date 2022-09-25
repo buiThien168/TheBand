@@ -162,7 +162,7 @@ html{
     /* 50% chiều ngang của chính nó */
     /* background-repeat: no-repeat;
     background-position: center; */
-    background: url('/assets/img/slide/chicago.jpg') top center / cover no-repeat;
+    background: url('/assets/img/slide/slide.png') top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
