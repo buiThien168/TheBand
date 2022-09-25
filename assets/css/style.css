@@ -160,6 +160,8 @@ html{
     margin-top: 46px;
     padding-top: 50%;
     /* 50% chiều ngang của chính nó */
+    /* background-repeat: no-repeat;
+    background-position: center; */
     background: url('/assets/img/slide/chicago.jpg') top center / cover no-repeat;
 }
 #slider .text-content{
